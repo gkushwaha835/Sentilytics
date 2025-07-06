@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Sentiment Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="particles"></div>
+    <!-- Floating div element -->
+    <div class="floating-div">
+        💡 Tip: Paste any text and click "Analyze Sentiment"!
+    </div>
+    <div class="floating-element">✨</div>
+    <div class="floating-element">✨</div>
+    <div class="floating-element">✨</div>
+    <div class="floating-element">🌟</div>
+    <div class="floating-element">✨</div>
+    <div class="floating-element">🌟</div>
+    <div class="floating-element">🌟</div>
+    <div class="floating-element">🌟</div>
+    <div class="floating-element">✨</div>
+    <div class="floating-element">🌟</div>
+    <div class="container">
+        <div class="main-card">
+            <h1 class="title"> Sentilytics Analyzer</h1>
+            <p class="subtitle">Discover the Emotional Tone of your text with Advanced AI</p>
+            
+            <div class="input-container">
+                <textarea 
+                    class="text-input" 
+                    id="inputText" 
+                    placeholder="Type your message here and watch the magic happen..."
+                    oninput="debounceAnalyze()"
+                    maxlength="500"
+                ></textarea>
+                <div class="char-counter">
+                    <span id="charCount">0</span>/500 characters
+                </div>
+            </div>
+            <button class="analyze-btn" onclick="analyzeSentiment()">
+                <span class="btn-text">Analyze Sentiment</span>
+                <span class="btn-icon">🔍</span>
+            </button>
+            <div class="loading" id="loading">
+                <div class="loading-spinner"></div>
+                Analyzing your text...
+            </div>
+            <div class="result" id="result"></div>
+        </div>
+        <div class="footer">
+            <p>Powered by GK • Real-time Analysis • Secure & Private</p>
+        </div>
+        <div class="footer">
+            <p>© 2025 Sentilytics Analyzer. All rights reserved.</p>
+        </div>
+    </div>
+    <div class="floating-element">✨</div>
+    <div class="floating-element">✨</div>
+    <div class="floating-element">✨</div>
+    <div class="floating-element">🌟</div>
+    <div class="floating-element">✨</div>
+    <div class="floating-element">🌟</div>
+    <div class="floating-element">🌟</div>
+    <div class="floating-element">🌟</div>
+    <div class="floating-element">✨</div>
+    <div class="floating-element">🌟</div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
