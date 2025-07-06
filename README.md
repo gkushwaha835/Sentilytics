@@ -85,9 +85,9 @@ Sentilytics/
 
 ---
 ## ✨ Acknowledgements
-- OpenAI for tools like ChatGPT
-- Scikit-learn & Flask community
-- Everyone who contributes to open-source ❤️
+- OpenAI for tools like ChatGPT.
+- Scikit-learn & Flask community.
+- Everyone who contributes to open-source. ❤️
 
 ---
 ## 🙋‍♂️ Let's Connect
